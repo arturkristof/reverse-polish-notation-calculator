@@ -1,0 +1,6 @@
+.vs/
+Debug/
+rpn-calculator.sln
+rpn-calculator/Debug/
+rpn-calculator/rpn-calculator.vcxproj
+rpn-calculator/rpn-calculator.vcxproj.filters
