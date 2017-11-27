@@ -1,4 +1,4 @@
-# reverse-polish-notation calculator
+# Reverse Polish Notation Calculator
 Project for university from January 2016
 
 This program calculates formulas using [Reverse Polish Notation](https://en.wikipedia.org/wiki/Reverse_Polish_notation "Wikipedia").  
